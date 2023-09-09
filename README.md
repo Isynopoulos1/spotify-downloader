@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# spotDL v4
+# spotDL v4!!
 
 **spotDL** finds songs from Spotify playlists on YouTube and downloads them - along with album art, lyrics and metadata.
 
